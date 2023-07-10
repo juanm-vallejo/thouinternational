@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/thouinternational/static/css/main.5bf77170.css",
+    "main.js": "/thouinternational/static/js/main.c04135a5.js",
+    "static/js/787.a7168588.chunk.js": "/thouinternational/static/js/787.a7168588.chunk.js",
+    "static/media/video.mp4": "/thouinternational/static/media/video.52bfd352389d2ab9bde1.mp4",
+    "static/media/port-about.jpg": "/thouinternational/static/media/port-about.14b0e2b1071d020b57e3.jpg",
+    "static/media/market-research.jpg": "/thouinternational/static/media/market-research.d6cd2aac981302e5efa7.jpg",
+    "static/media/distribution.jpg": "/thouinternational/static/media/distribution.d7f63f7bf1f2d7323a65.jpg",
+    "static/media/import-export.jpg": "/thouinternational/static/media/import-export.d8483274176dd2e0ddc0.jpg",
+    "static/media/consulting.jpg": "/thouinternational/static/media/consulting.0f864895447086b79301.jpg",
+    "static/media/sea-sunset.jpg": "/thouinternational/static/media/sea-sunset.24416d8727c02638b42f.jpg",
+    "static/media/Montserrat-SemiBold.ttf": "/thouinternational/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
+    "static/media/Montserrat-Regular.ttf": "/thouinternational/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/miama.regular.otf": "/thouinternational/static/media/miama.regular.04c17645d0948edcb72e.otf",
+    "static/media/consulting.png": "/thouinternational/static/media/consulting.135d497e8990012aeda1.png",
+    "static/media/eu-flag.jpg": "/thouinternational/static/media/eu-flag.b96d882693239ecd335f.jpg",
+    "static/media/us-flag.jpg": "/thouinternational/static/media/us-flag.9c209986a184bb27ddac.jpg",
+    "static/media/distribution.png": "/thouinternational/static/media/distribution.ba082e0c4238ff438ce0.png",
+    "static/media/export.png": "/thouinternational/static/media/export.eb46b3c037b307c45934.png",
+    "static/media/market-analysis.png": "/thouinternational/static/media/market-analysis.cc9357b95be27de1a9dd.png",
+    "index.html": "/thouinternational/index.html",
+    "main.5bf77170.css.map": "/thouinternational/static/css/main.5bf77170.css.map",
+    "main.c04135a5.js.map": "/thouinternational/static/js/main.c04135a5.js.map",
+    "787.a7168588.chunk.js.map": "/thouinternational/static/js/787.a7168588.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bf77170.css",
+    "static/js/main.c04135a5.js"
+  ]
+}
